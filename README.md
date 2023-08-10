@@ -1,5 +1,5 @@
 # Linux for Dummies
-Bienvenido a Linux! El mejor sistema operativo del mundo! Si no sabes qué es Linux puedes leerte nuestra pequeña introducción en: [¿Qué_es_Linux?](Qué_es_Linux.md). Para el resto de la guía supondremos que te has leído la introducción o que ya conoces el lingo y un poco del mundo de Linux.
+Bienvenido a Linux! El mejor sistema operativo del mundo! Si no sabes qué es Linux puedes leerte nuestra pequeña introducción en: [¿Qué_es_Linux?](What_is_Linux.md). Para el resto de la guía supondremos que te has leído la introducción o que ya conoces el lingo y un poco del mundo de Linux.
 
 ## ¿Por qué usar Linux?
 - Mejor rendimiento del computador (depende de la distro elegida): De forma general, Linux utiliza menos recursos para funcionar que Windows o Mac. Aunque algunas distros y configuraciones de escritorio utilizan más que otras.
