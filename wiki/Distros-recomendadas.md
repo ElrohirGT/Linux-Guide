@@ -1,0 +1,10 @@
+Como se mencionó en la sección [¿Qué es Linux?](¿Qué-es-Linux%3F), existen varias distros de Linux, cada una con un público objetivo en mente. A continuación te introducimos a algunas distros y recomendacioens personales:
+
+- [Ubuntu](https://ubuntu.com/): La distro más popular y amigable para usuarios nuevos a Linux. Por esto mismo es la más recomendada para principiantes. Eventualmente conforme aprendas más sobre este mundo y cómo funciona tu ordenador, es posible que cambies a una distro más avanzada, aunque no hay ningún problema con usar simplemente Ubuntu!
+- [Pop_OS!](https://pop.system76.com/): Recomendada para público en general, es amigable para usuarios principiantes al igual que Ubuntu. Según algunas guías soporta correr varios videojuegos populares.
+- [Manjaro](https://manjaro.org/): Una distro recomendada para usuarios que conocen muy bien a Windows, ya que el aspecto visual y los atajos del teclado son muy parecidos por no decir iguales en la mayoría de los casos. Es una distro basada en Arch por lo que si utilizas esta distribución, técnicamente ya puedes decir: "I use Arch btw".
+- [Fedora](https://fedoraproject.org/): Especialmente recomendada para programadores y entusiastas que les gusta tener siempre lo más nuevo.
+
+**Recomendaciones de los autores:**
+
+- Si eres un usuario avanzado (es decir, estas cómodo con la terminal)/un programador @ElrohirGT te recomienda usar [NixOS](https://nixos.org/), es una distro especialmente útil para programadores, pues utiliza la tecnología de [Nix](https://nixos.org/guides/how-nix-works) para llevar el control de todas las aplicaciones que instales en el sistema, lo que quiere decir que con solo ver un archivo puedes ver todas las aplicaciones instaladas dentro de tu sistema operativo y también la configuración de la mayoría de éstas. Además cuenta con un sistema de versiones integrado que te permite regresar a una versión anterior de tu sistema por si una aplicación corrompe tu sistema operativo o simplemente te gustaría regresar a una versión anterior más estable.
