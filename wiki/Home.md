@@ -44,7 +44,7 @@ Bienvenido a Linux! El mejor sistema operativo del mundo! Si no sabes qué es Li
   
   - [Reemplazo total del Sistema](./Formas-de-Instalacion#reemplazo-total-del-sistema)
 
-- [🤝 Reglas_de_Contribución](./Reglas_de_Contribucion)
+- [🤝 Reglas_de_Contribución](./Reglas-de-Contribucion)
 
 ## Alguna duda?
 

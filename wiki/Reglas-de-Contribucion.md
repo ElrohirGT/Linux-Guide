@@ -18,8 +18,6 @@ Intenta poner links SIEMPRE que puedas, esto hará mucho más fácil navegar la 
 
 Puedes agregar *imágenes, videos o gifs* **No mayores a 25MB** Para que el repositorio no se vuelva muy grande.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzB_bVqXgLU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ## Redacción 📜
 
 Busca cumplir las siguientes reglas:
