@@ -62,7 +62,7 @@ Ahora que tienes tu booting device necesitas iniciar el proceso de instalación 
 
 ### Procedimiento para MacBook
 
-Después de haber realizado lo indicado en la sección de [Instalación](#Instalacion) deberás seguir los siguientes pasos para poder crear tu máquina virtual.
+Después de haber realizado lo indicado en la sección de [Instalación](#instalación) deberás seguir los siguientes pasos para poder crear tu máquina virtual.
 
 1. Asegúrate de tener por lo menos 40 GB de espacio disponible para la instalación de la máquina virtual.
 2. Dirígete a la página oficial de [UTM](https://mac.getutm.app/), después presiona el botón *Download* y espera a que se termine de descargar el archivo.
