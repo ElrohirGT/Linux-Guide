@@ -106,6 +106,12 @@ Para crear una máquina virtual en Windows haremos uso de “Virtual Box”, a c
 Debes ir a la sección de Instalación Ubuntu para terminar con la creación de tu máquina virtual.
 
 ## Reemplazo Total del Sistema
+Para instalar Ubuntu de forma que reemplaze el OS instalado dentro de nuestra computadora sigue todos los pasos para [Dual Booting](#dual-booting) con la excepción de que en el instalador seleccionarás la siguiente opción:
+![Instalador Ubuntu, reemplazo total del sistema](./resources/ubuntu_installer.png)
+
+Como se puede ver en la advertencia, esta opción borrará todos los documentos y programas dentro de tu ordenador y te instalara Ubuntu como si tu computadora hubiera venido con este OS por defecto en lugar de Windows/Mac.
+
+Una vez instalada de esta forma no hay manera de recuperar los archivos que fueron borrados durante la instalación, por lo que recomendamos que por lo menos tengas una copia de estos antes de iniciar la instalación.
 
 ## Regresar la USB booteable a la normalidad
 
