@@ -88,7 +88,7 @@ Hay algunos Window Managers híbridos, que te permiten usar algunas ventanas de 
 
 Todas las [recomendaciones de distros](Distros-Recomendadas) que nosotros damos tienen un Floating Window Manager por defecto, aunque algunas tienen la opción de instalarse con un Tiling Window Manager en su lugar.
 
-Ordenados por dificultad de configuración, estos serían algunos de los más conocidos:
+Ordenados de menor a mayor dificultad de configuración, estos serían algunos de los más conocidos:
 
 * [**QTile**](https://qtile.org/)
 * [**I3**](https://i3wm.org/)
