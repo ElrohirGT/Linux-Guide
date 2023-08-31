@@ -69,7 +69,7 @@ Hay muchos más, algunos permiten más configuraciones que otros. Te recomendamo
 
 ## ¿Qué es un Window Manager?
 
-Programa fundamental del [Desktop Environment](%C2%BFqu%C3%A9-es-un-desktop-environment%3F) que decide el lugar de la pantalla en que se mostrar cada ventana, sus dimensiones, animaciones, color entre otras cosas...
+Programa fundamental del [Desktop Environment](%C2%BFqu%C3%A9-es-un-desktop-environment%3F) que decide el lugar de la pantalla en que se mostrará cada ventana, sus dimensiones, animaciones, color entre otras cosas...
 
 **Existen dos filosofías** que se han desarrollado dentro de los administradores de ventanas:
 
@@ -77,8 +77,8 @@ Programa fundamental del [Desktop Environment](%C2%BFqu%C3%A9-es-un-desktop-envi
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------- |
 | <img title="" src="./resources/window_manager.webp" alt="" width="1104"> | <img src="./resources/kde_plasma.png" title="" alt="" width="1093"> |
 
-* **Tiling Window Managers (Administradores de ventana de tipo mosaico)**: Administran la posición y tamaño de las ventanas por tí, su objetivo es que uses el 100% de tu pantalla sin importar cuáles o cuántas ventanas tengas abiertas al mismo tiempo, además de <u>ser más rapidos y consumir menos recursos</u>.
-* **Floating Window Managers (Administradores de ventana de tipo flotante)**: Las ventanas flotan una sobre otras, el administrador de ventanas de Windows y MacOS es de este tipo, por lo que ya estarás familiarizado con su funcionamiento.
+* **Tiling Window Managers (Administradores de ventana de tipo mosaico)**: Administran la posición y tamaño de las ventanas por tí, su objetivo es que uses el 100% de tu pantalla sin importar cuáles o cuántas ventanas tengas abiertas al mismo tiempo, además tienden a ser más rapidos y consumir menos recursos.
+* **Floating Window Managers (Administradores de ventana de tipo flotante)**: Las ventanas flotan una sobre otras, los administradores de ventanas de Windows y MacOS son de este tipo, por lo que ya estarás familiarizado con su funcionamiento.
 
 Hay algunos Window Managers híbridos, que te permiten usar algunas ventanas de manera flotante o incluso, cambiar totalmente a modo flotante según tu desees, las posibilidades son ilimitadas!
 
@@ -88,7 +88,7 @@ Hay algunos Window Managers híbridos, que te permiten usar algunas ventanas de 
 
 Todas las [recomendaciones de distros](Distros-Recomendadas) que nosotros damos tienen un Floating Window Manager por defecto, aunque algunas tienen la opción de instalarse con un Tiling Window Manager en su lugar.
 
-Ordenados por dificultad de configuración, estos serían algunos de los más conocidos :
+Ordenados por dificultad de configuración, estos serían algunos de los más conocidos:
 
 * [**QTile**](https://qtile.org/)
 * [**I3**](https://i3wm.org/)
