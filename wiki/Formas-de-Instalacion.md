@@ -24,7 +24,7 @@ Si estas en esta sección es porque deseas instalar Linux de forma [Dual Booting
 
 🔔**Importante:** Tranquilo 😁 después de la instalación, la USB puede ser regresada a su estado original y usarla como siempre, solo sigue los pasos de la sección [Regresar la USB booteable a la normalidad](#regresar-la-usb-booteable-a-la-normalidad)
 
-Por lo general una <u>USB de 4-8GB</u> sera suficiente, busca que sea como mínimo un poco más grande que el .ISO que descargaste. <u>Para hacer tu USB Booteable existen utilizar programas como</u>:
+Por lo general una <u>USB de 4-8GB</u> sera suficiente, busca que sea como mínimo un poco más grande que el .ISO que descargaste. <u>Para hacer tu USB Booteable puedes utilizar programas como</u>:
 
 * 🪟 **Windows**: [Rufus](https://rufus.ie/en/) es el programa que mejor nos ha funcionado, es fácil de usar aunque no es muy estético jaja.
 * 🍎 **Mac**: [Balena Etcher](https://etcher.balena.io/) es un programa muy sencillo pero útil, funciona perfecto en Mac aunque en Windows es posible que no funcione.
