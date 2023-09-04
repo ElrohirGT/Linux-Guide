@@ -76,7 +76,11 @@ El primer paso para poder hacer un dualbooting en tu pc es crear una particion e
 ### Entrar en la memoria booteable desde BIOS
 Cuando ya hayas creado tu USB booteable siguiendo las instrucciones de [Creación del booting device](##Creación-del-Booting-Device), puedes seguir los siguientes pasos para entrar en ella y comenzar con la instalacion de Ubuntu.
 
-1. Apaga tu PC y espera unos segundos para 
+1. Apaga tu PC y espera unos segundos para apretar el boton para poder entrar en tu BIOS, segun el fabricante de tu comnputadora este boton puede cambiar, para saber con exactitud cual es en tu caso puedes ver esta [pagina de ayuda](https://hanieltech.com/teclas-para-entrar-al-boot-menu/)
+2. Elige el USB booteado que creaste y entra en ella.
+3. Realiza la instalacion de a tu gusto hasta llegar a la parte de "Installation type".
+4. Elige la opcion "Something else". ![Imagen](./resources/DB/db5.png)
+5. Ahora busca la particion, la puedes identificar por su nombre, ya que aparecera como "free space".
 ## Virtual Machine
 
 ### Procedimiento para MacBook
