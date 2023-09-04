@@ -90,20 +90,51 @@ Después de haber realizado lo indicado en la sección de [Instalación](#instal
 1. Asegúrate de tener por lo menos 40 GB de espacio disponible para la instalación de la máquina virtual.
 2. Dirígete a la página oficial de [UTM](https://mac.getutm.app/), después presiona el botón *Download* y espera a que se termine de descargar el archivo.
 3. Cuando ya tengas el archivo descargado, dirígete a la carpeta en donde se encuentra y haz doble clic sobre él, después arrastra el icono de UTM a la sección de aplicaciones.![Imagen](./resources/VM/vm1.png)
-4. Dirígete a la sección de aplicaciones y ejecuta la aplicación de UTM.![Imagen](./resources/VM/vm2.png)
-5. Después de ejecutar vas a encontrarte con la siguiente interfaz.![Imagen](./resources/VM/vm3.png)
-6. Haz clic en "Create a new virtual machine" y aparecerá la siguiente ventana. ![Imagen](./resources/VM/vm4.png)
+4. Dirígete a la sección de aplicaciones y ejecuta la aplicación de UTM.
+
+![Imagen](./resources/VM/vm2.png)
+
+5. Después de ejecutar vas a encontrarte con la siguiente interfaz.
+
+![Imagen](./resources/VM/vm3.png)
+
+6. Haz clic en "Create a new virtual machine" y aparecerá la siguiente ventana. 
+
+![Imagen](./resources/VM/vm4.png)
+
 7. Para el siguiente paso debes de saber el procesador de tu MacBook, si tu MacBook utiliza un procesador M1 o M2 selecciona la opción de "Virtualize", en el otro caso que son los procesadores de Intel o AMD debes de elegir la opción de "Emulate".
 8. En la ventana siguiente debes de elegir la opción correspondiente a Linux.
-   ![Imagen](./resources/VM/vm5.png)
-9. A continuación podrás ver la siguiente ventana, asegúrate de desmarcar la casilla de "Use apple virtualization", ahora debes de presionar el botón de "Browse". ![Imagen](./resources/VM/vm6.png)
-10. Después de presionar este botón se desplegará un explorador de archivos y deberás de buscar el archivo .ISO de Ubuntu o la distribución que hayas elegido.![Imagen](./resources/VM/vm7.png)
+
+![Imagen](./resources/VM/vm5.png)
+
+9. A continuación podrás ver la siguiente ventana, asegúrate de desmarcar la casilla de "Use apple virtualization", ahora debes de presionar el botón de "Browse".
+
+![Imagen](./resources/VM/vm6.png)
+
+10. Después de presionar este botón se desplegará un explorador de archivos y deberás de buscar el archivo .ISO de Ubuntu o la distribución que hayas elegido.
+
+![Imagen](./resources/VM/vm7.png)
+
 11. Presiona el botón de "open" y después el botón "continue" en la siguiente ventana.
-12. Ahora asignarás los recursos necesarios a la máquina virtual. En la ventana que se desplegara deberás de asignar una cantidad de RAM para la que la máquina virtual use, en este caso se asignaran 4 GB, si tienes más RAM podrías darle una cantidad mayor. De igual manera le darás 4 núcleos y dejarás en blanco la casilla de "OpenGL acceleration". ![Imagen](./resources/VM/vm8.png)
-13. En la siguiente venta le asignarás un espacio para poder almacenar el sistema y también para poder guardar los archivos con los que trabajes dentro de la máquina virtual. El espacio recomendado es más de 40 GB y en este caso le daremos 64 GB. ![Imagen](./resources/VM/vm9.png)
-14. Ahora podrás hacer que una carpeta de tu sistema Mac Os pueda ser compartida con la máquina virtual, o se podrás acceder a los archivos de tu computadora desde la quina virtual. Puedes elegir cualquier carpeta o un directorio como puede ser "Downloads" en este caso. ![Imagen](./resources/VM/vm10.png)
-15. Ahora solo te queda nombrar tu máquina virtual y presionar el botón "Save". ![Imagen](./resources/VM/vm11.png)
-16. Para iniciar tu máquina virtual solo debes de presionar el botón "Play" que aparece en la parte superior.![Imagen](./resources/VM/vm12.png)
+12. Ahora asignarás los recursos necesarios a la máquina virtual. En la ventana que se desplegara deberás de asignar una cantidad de RAM para la que la máquina virtual use, en este caso se asignaran 4 GB, si tienes más RAM podrías darle una cantidad mayor. De igual manera le darás 4 núcleos y dejarás en blanco la casilla de "OpenGL acceleration".
+
+![Imagen](./resources/VM/vm8.png)
+
+13. En la siguiente venta le asignarás un espacio para poder almacenar el sistema y también para poder guardar los archivos con los que trabajes dentro de la máquina virtual. El espacio recomendado es más de 40 GB y en este caso le daremos 64 GB.
+
+![Imagen](./resources/VM/vm9.png)
+
+14. Ahora podrás hacer que una carpeta de tu sistema Mac Os pueda ser compartida con la máquina virtual, o se podrás acceder a los archivos de tu computadora desde la quina virtual. Puedes elegir cualquier carpeta o un directorio como puede ser "Downloads" en este caso.
+
+![Imagen](./resources/VM/vm10.png)
+
+15. Ahora solo te queda nombrar tu máquina virtual y presionar el botón "Save".
+
+![Imagen](./resources/VM/vm11.png)
+
+16. Para iniciar tu máquina virtual solo debes de presionar el botón "Play" que aparece en la parte superior.
+
+![Imagen](./resources/VM/vm12.png)
 
 ### Procedimiento para Windows
 
