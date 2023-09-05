@@ -63,24 +63,23 @@ Para crear el disco usando [Rufus](https://rufus.ie/en/) sigue los siguientes pa
 Ahora que tienes tu booting device necesitas **iniciar el proceso de instalación de Linux.** Para esto puedes ir a las secciones de [Dual Booting](#dual-booting) o [Reemplazo total del sistema](#reemplazo-total-del-sistema) las cuales necesitan de este dispositivo para funcionar.
 
 ## Dual Booting
-### Crear tu particion 
-El primer paso para poder hacer un dualbooting en tu pc es crear una particion en tu disco donde puedas instalar Ubuntu, para crear dicha particion debes seguir los siguientes pasos.
-1. Usa el buscador de Windows e ingresa la palabra "particiones", de las opciones desplegadas elige la opcion "Crear y formatear particiones del disco. ![Imagen](./resources/DB/DB1.jpeg)
-2. Cuando se despliegue la siguiente ventana, debes identificar tu disco duro (en la mayoria de computadoras se llama disco 0). ![Imagen](./resources/DB/db1.png)
-3. Despues de identificar tu disco principal debes de hacer click en la seccion de mayor tamaño (en GB) y haz click derecho encima de ella, de las opciones seleccionadas elige la que tiene nombre de "reducir volumen". ![Imagen](./resources/DB/db2.png)
-4. En esta ventana debes de elegir la cantidad de GB que deseas darle a tu nuevo sistema Ubuntu, lo mas recomendable es de 45GB o superior, si no sabes cuantos MB son un GB, puedes usar un conversor en linea para darle el espacio que tu desees. 
+### Crear tu partición
+El primer paso para poder hacer un dualbooting en tu PC es crear una partición en tu disco donde puedas instalar Ubuntu, para crear dicha partición debes seguir los siguientes pasos.
+1. Usa el buscador de Windows e ingresa la palabra “particiones”, de las opciones desplegadas elige la opción “Crear y formatear particiones del disco”. ![Imagen](./resources/DB/DB1.jpeg)
+2. Cuando se despliegue la siguiente ventana, debes identificar tu disco duro (en la mayoría de computadoras se llama disco 0). ![Imagen](./resources/DB/db1.png)
+3. Después de identificar tu disco principal debes de hacer clic en la sección de mayor tamaño (en GB) y haz clic derecho encima de ella, de las opciones seleccionadas elige la que tiene nombre de “reducir volumen”. ![Imagen](./resources/DB/db2.png)
+4. En esta ventana debes de elegir la cantidad de GB que deseas darle a tu nuevo sistema Ubuntu, lo más recomendable es de 45GB o superior, si no sabes cuantos MB son un GB, puedes utilizar un conversor en línea para darle el espacio que tú desees.
 5. Este paso es solamente para algunos usuarios a los cuales no les deja poner la cantidad deseada de GB aunque si tengan esa cantidad disponible, puede que este video de como usar UltraDefrag te pueda ayudar https://www.youtube.com/watch?v=OYs8If8wIpk&t=352s.
-6. Ahora que ya tienes el volumen reducido deberias de poder ver un espacio en el disco 0 con el texto "no asignado", como en la siguiente imagen.   
- ![Imagen](./resources/DB/db4.png)
-7. Ya tienes tu particion creada para poder instalar tu sistema Ubuntu o la distro que tu hayas elegido.
+6. Ahora que ya tienes el volumen reducido, deberías de poder ver un espacio en el disco 0 con el texto “no asignado”, como en la siguiente imagen.
+![Imagen](./resources/DB/db4.png)
+7. Ya tienes tu partición creada para poder instalar tu sistema Ubuntu o la distro que tú hayas elegido.
 ### Entrar en la memoria booteable desde BIOS
-Cuando ya hayas creado tu USB booteable siguiendo las instrucciones de [Creación del booting device](##Creación-del-Booting-Device), puedes seguir los siguientes pasos para entrar en ella y comenzar con la instalacion de Ubuntu.
-
-1. Apaga tu PC y espera unos segundos para apretar el boton para poder entrar en tu BIOS, segun el fabricante de tu comnputadora este boton puede cambiar, para saber con exactitud cual es en tu caso puedes ver esta [pagina de ayuda](https://hanieltech.com/teclas-para-entrar-al-boot-menu/)
+Cuando ya hayas creado tu USB booteable siguiendo las instrucciones de [Creación del booting device](##Creación-del-Booting-Device), puedes seguir los siguientes pasos para entrar en ella y comenzar con la instalación de Ubuntu.
+1. Apaga tu PC y espera unos segundos para apretar el botón para poder entrar en tu BIOS, según el fabricante de tu computadora, este botón puede cambiar, para saber con exactitud cuál es en tu caso puedes ver esta [página de ayuda](https://hanieltech.com/teclas-para-entrar-al-boot-menu/)
 2. Elige el USB booteado que creaste y entra en ella.
-3. Realiza la instalacion de a tu gusto hasta llegar a la parte de "Installation type".
-4. Elige la opcion "Something else". ![Imagen](./resources/DB/db5.png)
-5. Ahora busca la particion, la puedes identificar por su nombre, ya que aparecera como "free space".
+3. Realiza la instalación de a tu gusto hasta llegar a la parte de “Installation type”.
+4. Elige la opción “Something else”. ![Imagen](./resources/DB/db5.png)
+5. Ahora busca la partición, la puedes identificar por su nombre, ya que aparecerá como “free space”.
 ## Virtual Machine
 
 ### Procedimiento para MacBook
